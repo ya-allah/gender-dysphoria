@@ -45,6 +45,10 @@
   margin-bottom: 1em;
 }
 
+a {
+  color: #0645AD;
+}
+
 sup {
   font-size: 12px;
 }
