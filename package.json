@@ -4,7 +4,7 @@
   "description": "a small side project.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d proj-1"
+    "deploy": "npm gh-pages -d ."
   },
   "repository": {
     "type": "git",
