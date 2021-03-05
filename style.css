@@ -7,6 +7,28 @@
   scroll-behavior: smooth;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  width: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  backgeound: #0645AD;
+  width: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #06368A;
+}
+
 .container {
   width: 90%;
   margin: 2em auto;
