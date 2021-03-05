@@ -50,6 +50,10 @@ a {
   color: #0645AD;
 }
 
+strong {
+  font-weight: 550;
+}
+
 sup {
   font-size: 12px;
 }
